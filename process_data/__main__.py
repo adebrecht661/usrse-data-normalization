@@ -30,6 +30,8 @@ def normalize_items(
     rescan_non_dupes: bool,
     recorded_dupes: RecordedDupes,
     recorded_ignores: RecordedIgnores,
+    skip_ror: bool,
+    rematch_ror: bool,
 ) -> pandas.DataFrame:
     """Normalize items"""
 
@@ -56,7 +58,7 @@ def normalize_items(
         json.dump(recorded_dupes.to_data(), dupe_file, indent=2)
 
     print("Updating data.")
-    data = update_data(data, recorded_dupes.dupes)
+    data = update_data(data, recorded_dupes, recorded_ignores, match_score, skip_ror, rematch_ror)
     print("Data updated.")
 
     return data
@@ -65,7 +67,12 @@ def normalize_items(
 def print_statistics(data: pandas.DataFrame) -> None:
     """Collect statistics on normalized items"""
 
-    print(data.reset_index().groupby("Organization").count().sort_values("index", ascending=False))
+    print(
+        data.reset_index()
+        .groupby(["Organization", "ROR ID"], dropna=False)
+        .count()
+        .sort_values("index", ascending=False)
+    )
 
 
 def main(args: argparse.Namespace) -> None:
@@ -85,6 +92,8 @@ def main(args: argparse.Namespace) -> None:
             args.rescan_keys,
             recorded_duplicates,
             recorded_ignores,
+            args.skip_match_for_ror,
+            args.rematch_for_ror,
         )
 
     print("Collecting statistics.")
@@ -119,6 +128,22 @@ def cli() -> argparse.Namespace:
         action="store_true",
         help="""
         Use the existing resolved duplicates, don't attempt to find new duplicates 
+        """,
+    )
+
+    parser.add_argument(
+        "--skip-match-for-ror",
+        action="store_true",
+        help="""
+        Skip attempting to find the correct key for the ROR data if it's not found. 
+        """,
+    )
+
+    parser.add_argument(
+        "--rematch-for-ror",
+        action="store_true",
+        help="""
+        Attempt to match ROR data even if a match was previously not found. 
         """,
     )
 

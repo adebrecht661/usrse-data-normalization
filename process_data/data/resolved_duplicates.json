@@ -3,25 +3,31 @@
     "30 Madison": [],
     "54gene": [],
     "AIM": [],
-    "Aalto University ": [],
+    "Aalto University": [
+      "Aalto University "
+    ],
     "Aarsol Private Limited": [],
     "Academic Data Science Alliance": [],
     "Accelerate Biopharma": [],
     "Adnet Systems Inc": [],
     "Agile BioFoundry": [],
-    "Air Force Research Lab": [],
     "Alfred P. Sloan Foundation": [],
     "Allen Institute for Brain Science": [
       "Allen Institute"
     ],
     "Allsafe GMBH": [],
-    "Amazon": [
+    "Amazon (United States)": [
       "AWS",
+      "Amazon",
+      "Amazon (Germany)",
+      "Amazon (United Kingdom)",
       "Amazon Web Services",
       "Amazon Web Services, Inc.",
       "Amazon.com"
     ],
-    "Amsterdam UMC": [],
+    "Amsterdam UMC Location VUmc": [
+      "Amsterdam UMC"
+    ],
     "Apex 974 LLC": [],
     "Applied Materials INC": [
       "Applied Materials "
@@ -40,13 +46,23 @@
     "Austin Peay State University": [],
     "Australian National University": [],
     "Australian Research Data Commons": [],
-    "Autodesk": [],
+    "Autodesk (United States)": [
+      "Autodesk",
+      "Autodesk (Canada)",
+      "Autodesk (United Kingdom)",
+      "Autodesk Foundation"
+    ],
     "Avanade": [],
+    "BRAC University": [
+      "Brac University"
+    ],
     "Bambee": [],
     "Bayesic Research": [],
     "Baylor College of Medicine": [],
     "Bev Corwin, Consultant": [],
-    "Bill and Melinda Gates Foundation": [],
+    "Bill & Melinda Gates Foundation": [
+      "Bill and Melinda Gates Foundation"
+    ],
     "Binghamton University": [],
     "BioTeam": [],
     "Bloomberg LP": [],
@@ -56,7 +72,6 @@
     "Boston University": [
       "Boston "
     ],
-    "Brac University": [],
     "Brandeis University": [],
     "Brigham Young University - Idaho": [],
     "Brigham and Women's Hospital": [],
@@ -64,8 +79,8 @@
       "Broad Institute of MIT and Harvard",
       "The Broad Institute"
     ],
-    "Brookhaven National Laboratory ": [
-      "Brookhaven National Laboratory"
+    "Brookhaven National Laboratory": [
+      "Brookhaven National Laboratory "
     ],
     "Brown University": [
       "Brown",
@@ -73,13 +88,11 @@
     ],
     "CASC": [],
     "CEA Saclay": [],
-    "CERN": [],
-    "CFD Research Corporation": [],
+    "CFD Research Corporation (United States)": [
+      "CFD Research Corporation"
+    ],
     "CIRA": [],
     "CMU": [],
-    "CU Boulder": [],
-    "CU Denver": [],
-    "CUNY Hunter College": [],
     "California Institute of Technology": [
       "Caltech",
       "Caltech/IPAC",
@@ -87,15 +100,16 @@
       "NASA Exoplanet Science Institute / IPAC-Caltech"
     ],
     "California Medical Innovations Institute": [],
-    "California Polytechnic University, Pomona": [],
     "California State Library": [],
-    "California State University": [
-      "Cal State University, Fullerton ",
-      "California State University, Fullerton",
-      "California State University, Northridge"
+    "California State Polytechnic University": [
+      "California Polytechnic University, Pomona"
     ],
-    "Carnegie Mellon University ": [
-      "Carnegie Mellon University"
+    "California State University, Fullerton": [
+      "Cal State University, Fullerton "
+    ],
+    "California State University, Northridge": [],
+    "Carnegie Mellon University": [
+      "Carnegie Mellon University "
     ],
     "Catalogic Software": [],
     "Catalyst Cooperative": [],
@@ -107,16 +121,24 @@
     "Champalimaud Center for the Unknown": [],
     "Chapman University": [],
     "Chicago HOPES for Kids": [],
-    "Childrens Hospital of Philadelphia": [],
+    "Children's Hospital of Philadelphia": [
+      "Childrens Hospital of Philadelphia"
+    ],
     "Christopher Newport University": [],
     "Cirrus AI": [],
-    "Citi": [],
-    "Citrine Informatics": [],
+    "Citigroup": [
+      "Citi"
+    ],
+    "Citrine Informatics (United States)": [
+      "Citrine Informatics"
+    ],
     "City College of San Francisco": [],
     "Clarkson University": [],
     "Clemson University": [],
     "Cleveland Clinic": [],
-    "Code for Science and Society": [],
+    "Code for Science & Society": [
+      "Code for Science and Society"
+    ],
     "Code for Thought podcast": [],
     "Cohere Consulting, LLC": [],
     "Colorado School of Mines": [],
@@ -134,16 +156,19 @@
     "Crowdstrike": [],
     "Crs Soft": [],
     "Cummins Inc": [],
-    "Cytovale": [],
+    "Cytovale (United States)": [
+      "Cytovale"
+    ],
     "DFTWorks LLC": [],
-    "DanStem - University of Copenhagen": [],
     "Dana-Farber Cancer Institute": [
       "Dana Farber Cancer Institute"
     ],
     "Dartmouth College": [],
     "Datryllic LLC": [],
-    "Department of Defense": [],
-    "Diebold Nixdorf": [],
+    "Diebold Nixdorf (Germany)": [
+      "Diebold Nixdorf",
+      "Diebold Nixdorf (United States)"
+    ],
     "Digital Research Alliance of Canada": [
       "Research Software Alliance (ReSA); Digital Research Alliance of Canada "
     ],
@@ -154,32 +179,54 @@
     "DocGo": [],
     "Dog Genetics LLC": [],
     "Dominion Energy": [],
-    "Drexel": [],
+    "Drexel University": [
+      "Drexel"
+    ],
     "Dryad Digital Repository": [],
     "Duke University": [],
     "Durham University": [],
-    "EMBL": [],
     "ENSET Hassan II UNIVERSITY": [],
     "EP Analytics, Inc.": [],
-    "ESI Group": [
-      "ESI"
+    "ESI Group (United States)": [
+      "ESI",
+      "ESI Group",
+      "ESI Group (Czechia)",
+      "ESI Group (France)",
+      "ESI Group (Germany)",
+      "ESI Group (Sweden)",
+      "ESI Group (Switzerland)",
+      "ESI Group (United Kingdom)"
     ],
     "ETH Zurich": [
       "ETH Z\u00fcrich"
     ],
     "Eagle Rock Analytics": [],
     "East Carolina University": [],
-    "Ecole Polytechnique": [],
     "Eldritch Research": [],
     "Emory University": [],
     "Endeavor Solutions": [],
     "Energy Efficient HPC Working Group": [],
     "Environment and Climate Change Canada": [],
+    "European Molecular Biology Laboratory": [
+      "EMBL"
+    ],
+    "European Organization for Nuclear Research": [
+      "CERN"
+    ],
     "Execusoft Solutions Inc": [],
-    "ExxonMobil": [],
+    "ExxonMobil (United States)": [
+      "ExxonMobil",
+      "ExxonMobil (Canada)",
+      "ExxonMobil (France)",
+      "ExxonMobil (Germany)",
+      "ExxonMobil (Norway)",
+      "ExxonMobil (Qatar)",
+      "ExxonMobil (United Kingdom)"
+    ],
     "F5 Networks, Inc": [],
     "Faculty of computers and artificial intelligence benha university medical informatics department and research intern at bioengineering department of Louisville university ": [],
-    "FedEx": [
+    "FedEx (United States)": [
+      "FedEx",
       "FedEx Corporate Services"
     ],
     "Federal Reserve Bank of Boston": [],
@@ -188,9 +235,9 @@
     "Federal University of Rio Grande do Sul": [],
     "Federal University of Sao Carlos (UFSCar)": [],
     "Fermi National Accelerator Laboratory": [
-      "Fermi National Accelerator Laboratory "
+      "Fermi National Accelerator Laboratory ",
+      "Fermilab"
     ],
-    "Fermilab": [],
     "FireworkWeb": [],
     "Fivetran": [],
     "Florida International University": [],
@@ -206,7 +253,9 @@
       "Fred Hutchinson Cancer Center",
       "Fred Hutchinson Cancer Research Center (Fred Hutch)"
     ],
-    "Gdansk University of Technology": [],
+    "Gda\u0144sk University of Technology": [
+      "Gdansk University of Technology"
+    ],
     "Geophysics Institute, UNAM": [],
     "George Mason University": [],
     "George Washington University": [],
@@ -216,16 +265,25 @@
     "Georgia Institute of Technology": [
       "Georgia Inst. of Technology",
       "Georgia Institute of Technology (PhD graduate)",
+      "Georgia Tech",
       "The Georgia Institute of Technology"
     ],
     "Georgia State University": [],
-    "Georgia Tech": [],
     "GitLab": [],
     "GiveChief": [],
     "GoGuardian": [],
-    "Google": [],
-    "Government": [],
+    "Google (United States)": [
+      "Google",
+      "Google (Canada)",
+      "Google (Ireland)",
+      "Google (Israel)",
+      "Google (Switzerland)",
+      "Google (United Kingdom)"
+    ],
     "Government of Canada": [],
+    "Government of the United States of America": [
+      "Government"
+    ],
     "Grambling State University": [],
     "Great Plains Network": [],
     "Green Air Care LLC": [],
@@ -247,10 +305,17 @@
     "HashiCorp": [],
     "Haverford College": [],
     "Health Research Institute": [],
-    "HealthPartners Institute": [],
-    "Helix": [],
+    "HealthPartners": [
+      "HealthPartners Institute"
+    ],
+    "Helix (United States)": [
+      "Helix"
+    ],
     "Hello PhD": [],
-    "Hewlett-Packard Enterprise": [],
+    "Hewlett Packard Enterprise (United States)": [
+      "Hewlett Packard Enterprise (Ireland)",
+      "Hewlett-Packard Enterprise"
+    ],
     "Higher Colleges of Technology": [],
     "Howard Hughes Medical Institute": [
       "HHMI Janelia",
@@ -258,8 +323,39 @@
       "Howard Hughes Medical Institute ",
       "Janelia Research Campus"
     ],
-    "IBM": [
-      "IBM Research"
+    "Hunter College": [
+      "CUNY Hunter College"
+    ],
+    "IBM (United States)": [
+      "IBM",
+      "IBM (Belgium)",
+      "IBM (Brazil)",
+      "IBM (Canada)",
+      "IBM (Czechia)",
+      "IBM (Denmark)",
+      "IBM (Egypt)",
+      "IBM (France)",
+      "IBM (Germany)",
+      "IBM (India)",
+      "IBM (Ireland)",
+      "IBM (Italy)",
+      "IBM (Netherlands)",
+      "IBM (Portugal)",
+      "IBM (Slovakia)",
+      "IBM (Spain)",
+      "IBM (United Kingdom)",
+      "IBM Research",
+      "IBM Research - Africa",
+      "IBM Research - Almaden",
+      "IBM Research - Austin",
+      "IBM Research - Australia",
+      "IBM Research - Brazil",
+      "IBM Research - China",
+      "IBM Research - Haifa",
+      "IBM Research - India",
+      "IBM Research - Ireland",
+      "IBM Research - Tokyo",
+      "IBM Research - Zurich"
     ],
     "IDM": [],
     "IHME": [],
@@ -606,11 +702,11 @@
     "Saint Louis University": [],
     "San Diego State University": [],
     "San Jose State University": [],
-    "Sandia National Laboratory": [
+    "Sandia National Laboratories": [
       "Sandia",
       "Sandia Natioal Laboratories",
-      "Sandia National Laboratories",
       "Sandia National Laboratories ",
+      "Sandia National Laboratory",
       "Sandia National Labs"
     ],
     "Sciugo": [],
@@ -717,6 +813,22 @@
     "The University of Dodoma": [],
     "The University of Jordan, Aqaba": [],
     "The University of Melbourne, Australia": [],
+    "The University of Texas Rio Grande Valley": [
+      "University of Texas Rio Grande Valley "
+    ],
+    "The University of Texas at Austin": [
+      "University of Texas Austin",
+      "University of Texas at Austin"
+    ],
+    "The University of Texas at Dallas": [
+      "University of Texas at Dallas"
+    ],
+    "The University of Texas at El Paso": [
+      "University of Texas at El Paso"
+    ],
+    "The University of Texas at San Antonio": [
+      "University of Texas at San Antonio"
+    ],
     "The University of Tulsa": [
       "University of Tulsa"
     ],
@@ -762,6 +874,20 @@
     "UW Madison": [],
     "Uber ATG": [],
     "Uniformed Services Unversity of the Health Sciences": [],
+    "United States Air Force Research Laboratory": [
+      "Air Force Research Lab",
+      "Air Force Research Laboratory Aerospace Systems Directorate",
+      "Air Force Research Laboratory Directed Energy Directorate",
+      "Air Force Research Laboratory Information Directorate",
+      "Air Force Research Laboratory Materials and Manufacturing Directorate",
+      "Air Force Research Laboratory Munitions Directorate",
+      "Air Force Research Laboratory Sensors Directorate"
+    ],
+    "United States Department of Defense": [
+      "Department of Defence",
+      "Department of Defense",
+      "Hawaii Department of Defense"
+    ],
     "United States Geological Survey": [],
     "Universidad Nacional de Colombia": [],
     "Universidad Nacional de Ingenieria": [],
@@ -776,46 +902,61 @@
       "UCAR",
       "UCAR/NCAR"
     ],
-    "University at Albany": [],
+    "University at Albany, State University of New York": [
+      "University at Albany"
+    ],
     "University of Alabama": [
       "University of Alabama at Birmingham"
     ],
-    "University of Alaska ": [
-      "University of Alaska - Fairbanks",
-      "University of Alaska Fairbanks"
+    "University of Alaska Fairbanks": [
+      "University of Alaska - Fairbanks"
     ],
-    "University of Arkansas": [],
+    "University of Alaska System": [
+      "University of Alaska",
+      "University of Alaska "
+    ],
+    "University of Arkansas System": [
+      "University of Arkansas"
+    ],
     "University of Birmingham": [
       "University of Birmingham, UK"
     ],
     "University of British Columbia": [],
     "University of Calgary": [],
-    "University of California": [
+    "University of California System": [
+      "University of California"
+    ],
+    "University of California, Berkeley": [
+      "UC Berkeley"
+    ],
+    "University of California, Davis": [],
+    "University of California, Irvine": [],
+    "University of California, Los Angeles": [
+      "University of California, Los Angeles ",
+      "University of California-Los Angeles - Los Angeles, CA"
+    ],
+    "University of California, Merced": [
+      "University of California Merced"
+    ],
+    "University of California, Riverside": [],
+    "University of California, San Diego": [
       "San Diego Supercomputer Center",
       "San Diego Supercomputer Center, UC San Diego",
       "San Diego Supercomputing Center",
-      "UC Berkeley",
       "UC San Diego",
-      "UC Santa Barbara",
-      "UC Santa Cruz",
-      "UCSB",
       "UCSD",
-      "University of California Merced",
-      "University of California San Diego",
+      "University of California San Diego"
+    ],
+    "University of California, San Francisco": [],
+    "University of California, Santa Barbara": [
+      "UC Santa Barbara",
+      "UCSB",
       "University of California Santa Barbara",
       "University of California at Santa Barbara",
-      "University of California, Berkeley",
-      "University of California, Davis",
-      "University of California, Irvine",
-      "University of California, Los Angeles",
-      "University of California, Los Angeles ",
-      "University of California, Merced",
-      "University of California, Riverside",
-      "University of California, San Diego",
-      "University of California, San Francisco",
-      "University of California, Santa Barbara",
-      "University of California, Santa Barbara ",
-      "University of California-Los Angeles - Los Angeles, CA"
+      "University of California, Santa Barbara "
+    ],
+    "University of California, Santa Cruz": [
+      "UC Santa Cruz"
     ],
     "University of Central Florida": [
       "University of Central Florida "
@@ -830,15 +971,24 @@
       "university of Cincinnati"
     ],
     "University of Cologne": [],
-    "University of Colorado": [
-      "University of Colorado Anschutz Medical Campus",
-      "University of Colorado Boulder",
-      "University of Colorado Denver",
+    "University of Colorado Anschutz Medical Campus": [
+      "University of Colorado, Anschutz Medical Campus"
+    ],
+    "University of Colorado Boulder": [
+      "CU Boulder",
       "University of Colorado at Boulder",
-      "University of Colorado, Anschutz Medical Campus",
       "University of Colorado, Boulder"
     ],
+    "University of Colorado Denver": [
+      "CU Denver"
+    ],
+    "University of Colorado System": [
+      "University of Colorado"
+    ],
     "University of Connecticut": [],
+    "University of Copenhagen": [
+      "DanStem - University of Copenhagen"
+    ],
     "University of Delaware": [
       "university of Delaware"
     ],
@@ -857,25 +1007,31 @@
       "University of Georgia "
     ],
     "University of Glasgow": [],
-    "University of Hawaii": [
-      "University of Hawaii at Manoa",
+    "University of Hawaii System": [
+      "University of Hawaii",
       "University of Hawai\u02bbi"
+    ],
+    "University of Hawai\u02bbi at M\u0101noa": [
+      "University of Hawaii at Manoa"
     ],
     "University of Houston": [],
     "University of Huddersfield": [],
     "University of Iceland": [],
-    "University of Illinois": [
+    "University of Illinois System": [
+      "University of Illinois",
+      "University of Illinois, Vocable Communications, LLC "
+    ],
+    "University of Illinois Urbana-Champaign": [
       "UIUC",
-      "University of Illinois Chicago",
       "University of Illinois Urbana Champaign",
-      "University of Illinois Urbana-Champaign",
       "University of Illinois Urbana-Champaign ",
-      "University of Illinois at Chicago",
       "University of Illinois at Urbana Champaign",
       "University of Illinois at Urbana-Champaign",
+      "uiuc.edu"
+    ],
+    "University of Illinois at Chicago": [
+      "University of Illinois Chicago",
       "University of Illinois, Chicago",
-      "University of Illinois, Vocable Communications, LLC ",
-      "uiuc.edu",
       "univeristy of illinois chicago",
       "university of illinois at chicago"
     ],
@@ -886,16 +1042,23 @@
     "University of Kentucky": [
       "University of Kentucky "
     ],
-    "University of Louisville; Million Concepts": [],
-    "University of Lucknow ": [],
-    "University of Luxembourg": [],
-    "University of Maryland": [
-      "University of Maryland, Baltimore County",
-      "University of Maryland, College Park"
+    "University of Louisville": [
+      "University of Louisville; Million Concepts"
     ],
-    "University of Massachusetts": [],
+    "University of Lucknow": [
+      "University of Lucknow "
+    ],
+    "University of Luxembourg": [],
+    "University of Maryland, Baltimore County": [],
+    "University of Maryland, College Park": [
+      "University of Maryland"
+    ],
+    "University of Massachusetts System": [
+      "University of Massachusetts"
+    ],
     "University of Memphis": [],
-    "University of Michigan": [
+    "University of Michigan\u2013Ann Arbor": [
+      "University of Michigan",
       "University of Michigan - Ann Arbor",
       "University of Michigan, Ann Arbor"
     ],
@@ -905,28 +1068,32 @@
     ],
     "University of Mons": [],
     "University of Nebraska at Omaha": [],
-    "University of Nevada": [
-      "University of Nevada, Las Vegas",
+    "University of Nevada Reno": [
       "University of Nevada, Reno",
       "University of Nevada, Rneo"
     ],
+    "University of Nevada, Las Vegas": [],
     "University of New Hampshire": [],
     "University of New Mexico": [
       "New Mexico"
     ],
-    "University of North Carolina, Chapel Hill": [
+    "University of North Carolina System": [
+      "University of North Carolina"
+    ],
+    "University of North Carolina Wilmington": [],
+    "University of North Carolina at Chapel Hill": [
       "U.S. EPA & UNC Chapel Hill",
       "UNC Chapel Hill",
       "UNC, Chapel Hill",
-      "University of North Carolina",
-      "University of North Carolina Wilmington",
-      "University of North Carolina at Chapel Hill",
-      "University of North Carolina at Charlotte"
+      "University of North Carolina, Chapel Hill"
     ],
+    "University of North Carolina at Charlotte": [],
     "University of North Florida": [
       "University of North Florida "
     ],
-    "University of North Texas ": [],
+    "University of North Texas": [
+      "University of North Texas "
+    ],
     "University of Notre Dame": [
       "University of Notre dame"
     ],
@@ -942,8 +1109,13 @@
     "University of Pittsburgh": [
       "University of Pittsburgh "
     ],
+    "University of Port Harcourt": [
+      "University of port harcourt "
+    ],
     "University of Reading": [],
-    "University of Rhode Island ": [],
+    "University of Rhode Island": [
+      "University of Rhode Island "
+    ],
     "University of Rostock": [],
     "University of South Africa": [],
     "University of South Alabama": [],
@@ -953,18 +1125,11 @@
       "Information Sciences Institute / University of Southern California",
       "Information Sciences Institute, University of Southern California"
     ],
-    "University of Tennessee": [
-      "University of Tennessee, Knoxville"
+    "University of Tennessee System": [
+      "University of Tennessee"
     ],
-    "University of Texas": [
-      "The University of Texas at Austin",
-      "The University of Texas at El Paso",
-      "University of Texas Austin",
-      "University of Texas Rio Grande Valley ",
-      "University of Texas at Austin",
-      "University of Texas at Dallas",
-      "University of Texas at El Paso",
-      "University of Texas at San Antonio"
+    "University of Tennessee at Knoxville": [
+      "University of Tennessee, Knoxville"
     ],
     "University of Toronto": [],
     "University of Utah": [
@@ -979,13 +1144,14 @@
       "University of Washington Seattle"
     ],
     "University of Waterloo": [],
-    "University of Wisconsin - Milwaukee": [],
-    "University of Wisconsin-Madison": [
+    "University of Wisconsin\u2013Madison": [
       "University of Wisconsin - Madison",
-      "University of Wisconsin\u2013Madison"
+      "University of Wisconsin-Madison"
+    ],
+    "University of Wisconsin\u2013Milwaukee": [
+      "University of Wisconsin - Milwaukee"
     ],
     "University of Wyoming": [],
-    "University of port harcourt ": [],
     "University of the People": [],
     "VA": [],
     "VMware": [],
@@ -1010,7 +1176,9 @@
       "Washinton University in St Louis"
     ],
     "WaveAccess": [],
-    "Wellesley college": [],
+    "Wellesley College": [
+      "Wellesley college"
+    ],
     "West Virginia University Institute of Technology": [],
     "Western Colorado University": [],
     "Western University": [],
@@ -1030,6 +1198,9 @@
     "pyOpenSci": [],
     "rOpenSci": [],
     "research for bank industry": [],
-    "taskmere": []
+    "taskmere": [],
+    "\u00c9cole Polytechnique": [
+      "Ecole Polytechnique"
+    ]
   }
 }

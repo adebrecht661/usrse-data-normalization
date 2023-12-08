@@ -2,33 +2,147 @@
   "ignored_dupes": {
     "30 Madison": [],
     "54gene": [],
-    "AIM": [],
+    "AIM": [
+      "AIM Group (Tanzania)",
+      "AIM at Melanoma",
+      "AIMS@JCU",
+      "Aim Foundation",
+      "Aims Community College",
+      "Aims2Cure",
+      "Brest'aim",
+      "Claims (India)",
+      "Daimler (Germany)",
+      "Daimler (Japan)",
+      "Daimler (United Kingdom)",
+      "Daimler (United States)",
+      "Haim Bio (South Korea)",
+      "Laboratoire Aim\u00e9 Cotton",
+      "RapidAIM (Australia)",
+      "Taimyr College",
+      "Universidad Maim\u00f3nides",
+      "University of Buraimi",
+      "Yeshiva Derech Chaim"
+    ],
+    "AIM Group (Tanzania)": [
+      "AIM"
+    ],
+    "AIM at Melanoma": [
+      "AIM"
+    ],
+    "AIMS@JCU": [
+      "AIM"
+    ],
+    "AIR": [
+      "Air Force Research Lab",
+      "Green Air Care LLC"
+    ],
     "ASU": [],
     "AWS": [],
-    "Aalto University ": [],
+    "Aalto University ": [
+      "Akal University",
+      "Yamato University"
+    ],
     "Aarsol Private Limited": [
-      "MIT"
+      "MIT",
+      "Massachusetts Institute of Technology"
+    ],
+    "Abrar University": [
+      "Brac University"
     ],
     "Academic Data Science Alliance": [],
     "Accelerate Biopharma": [],
-    "Adnet Systems Inc": [],
+    "Adnet Systems Inc": [
+      "Net-system"
+    ],
+    "Africa Health Research Institute": [
+      "Health Research Institute"
+    ],
     "Agile BioFoundry": [],
-    "Air Force Research Lab": [],
+    "Aim Foundation": [
+      "AIM"
+    ],
+    "Aims Community College": [
+      "AIM"
+    ],
+    "Aims2Cure": [
+      "AIM"
+    ],
+    "Air Force Research Lab": [
+      "AIR",
+      "Search"
+    ],
+    "Akal University": [
+      "Aalto University "
+    ],
     "Alfred P. Sloan Foundation": [],
     "Allen Institute": [],
     "Allsafe GMBH": [],
     "Am a student at Novena University ": [
       "Student"
     ],
+    "Amazon": [
+      "Amazon Conservation Association",
+      "Amazon National University of Madre de Dios",
+      "Amazon Research Foundation",
+      "Amazonen-Werke (Germany)",
+      "Andes Amazon Fund",
+      "Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa do Estado do Amazonas",
+      "Instituto Federal do Amazonas",
+      "Museu da Amazonia",
+      "National Institute of Amazonian Research",
+      "Stowarzyszenie \u0141\u00f3dzki Klub Amazonka",
+      "Universidad Amazonica de Pando",
+      "Universidad Nacional Aut\u00f3noma de Alto Amazonas",
+      "Universidad Nacional Intercultural de la Amazon\u00eda",
+      "Universidad Nacional de la Amazon\u00eda Peruana",
+      "Universidade Federal do Amazonas",
+      "Universidade do Estado do Amazonas",
+      "University of the Amazon"
+    ],
+    "Amazon Conservation Association": [
+      "Amazon"
+    ],
+    "Amazon National University of Madre de Dios": [
+      "Amazon"
+    ],
+    "Amazon Research Foundation": [
+      "Amazon"
+    ],
     "Amazon Web Services, Inc.": [],
     "Amazon.com": [],
+    "Amazonen-Werke (Germany)": [
+      "Amazon"
+    ],
+    "American Health Research Institute": [
+      "Health Research Institute"
+    ],
     "Amsterdam UMC": [],
+    "Andes Amazon Fund": [
+      "Amazon"
+    ],
+    "Animal Health Research Institute": [
+      "Health Research Institute"
+    ],
     "Apex 974 LLC": [],
-    "Applied Materials INC": [],
+    "Applied Materials INC": [
+      "TERI"
+    ],
+    "Arak University of Technology": [
+      "Gdansk University of Technology"
+    ],
     "Argonne National Lab.": [],
     "Argonne National Laboratory ": [],
+    "Argosy University, Twin Cities": [
+      "Citi"
+    ],
+    "Arise Citizens' Policy Project": [
+      "Citi"
+    ],
     "Arizona State University": [],
     "Art+Logic": [],
+    "Ash\u00e9": [
+      "HashiCorp"
+    ],
     "Atomwise": [],
     "Austin Peay State University": [],
     "Australian National University": [],
@@ -37,23 +151,51 @@
     "Avanade": [
       "VA"
     ],
+    "BRAC": [
+      "Brac University"
+    ],
     "Bambee": [],
+    "Banner Sun Health Research Institute": [
+      "Health Research Institute"
+    ],
     "Bayesic Research": [
-      "ESI Group"
+      "ESI Group",
+      "ESI Group (United States)",
+      "Search"
     ],
     "Baylor College of Medicine": [],
+    "Belfast Healthy Cities": [
+      "Citi"
+    ],
     "Berkeley Lab": [],
     "Bev Corwin, Consultant": [],
     "Bill and Melinda Gates Foundation": [],
     "Binghamton University": [],
-    "BioTeam": [],
+    "BioCruces Health research Institute": [
+      "Health Research Institute"
+    ],
+    "BioTeam": [
+      "TEAM"
+    ],
     "Bloomberg LP": [],
+    "Boise Cascade (Canada)": [
+      "CASC"
+    ],
     "Boise State University ": [],
     "Boston University": [
       "Federal Reserve Bank of Boston"
     ],
-    "Brac University": [],
+    "Brac University": [
+      "Abrar University",
+      "BRAC",
+      "Brock University",
+      "Burao University",
+      "Grace University"
+    ],
     "Brandeis University": [],
+    "Brest'aim": [
+      "AIM"
+    ],
     "Brigham Young University - Idaho": [],
     "Brigham and Women's Hospital": [],
     "Broad Institute": [
@@ -62,44 +204,274 @@
     "Broad Institute of MIT and Harvard": [
       "Harvard"
     ],
-    "Brookhaven National Laboratory ": [],
+    "Brock University": [
+      "Brac University"
+    ],
+    "Brookhaven National Laboratory ": [
+      "Lab\u00e9o"
+    ],
     "Brown University": [],
     "Brown University ": [],
-    "CASC": [],
+    "Burao University": [
+      "Brac University"
+    ],
+    "CASC": [
+      "Boise Cascade (Canada)",
+      "Cascade (United States)",
+      "Cascade AIDS Project",
+      "Cascade Designs (United States)",
+      "Cascade Drives (Sweden)",
+      "Cascade Mental Healthcare",
+      "Cascade Microtech (United States)",
+      "Cascades (Canada)",
+      "Cascades Volcano Observatory",
+      "Cascadia College",
+      "Cascadia Research Collective",
+      "Cascoda (United Kingdom)",
+      "Oregon State University Cascades"
+    ],
     "CEA Saclay": [],
-    "CERN": [],
-    "CFD Research Corporation": [],
-    "CIRA": [],
-    "CMU": [],
+    "CERN": [
+      "Central City Concern",
+      "Cerner (Austria)",
+      "Cerner (United States)",
+      "Cernin (Czechia)",
+      "Cernostics (United States)",
+      "Close Concerns (United States)",
+      "Concern Energomera (Russia)",
+      "Concern Foundation",
+      "Concern Granit-Electron (Russia)",
+      "Concern Worldwide",
+      "Concern Worldwide UK",
+      "Concern Worldwide US",
+      "Concerned Black Men National",
+      "Creative Concern (United Kingdom)",
+      "Farm Concern International",
+      "Funders Concerned About AIDS",
+      "Il\u2019laramatak Community Concerns",
+      "Lucerna (United States)",
+      "Lucerno Dynamics (United States)",
+      "Project Concern International",
+      "Roessingh Concern",
+      "Union of Concerned Scientists",
+      "Universidad Lucerna",
+      "University of Lucerne",
+      "VASCERN",
+      "Weight Concern"
+    ],
+    "CFD Research Corporation": [
+      "Ratio",
+      "Search"
+    ],
+    "CIRA": [
+      "Pacira (United States)"
+    ],
+    "CITIC Group (China)": [
+      "Citi"
+    ],
+    "CMU": [
+      "Macmurray College",
+      "McMurry University"
+    ],
     "CU Boulder": [],
     "CU Denver": [],
     "CUNY Hunter College": [],
     "California Medical Innovations Institute": [],
-    "California Polytechnic University, Pomona": [],
+    "California Polytechnic University, Pomona": [
+      "Polytechnic University"
+    ],
     "California State Library": [],
+    "California State University": [],
     "California State University, Fullerton": [],
     "California State University, Northridge": [],
     "Caltech": [],
+    "Cancer Research Center": [
+      "Fred Hutchinson Cancer Research Center"
+    ],
     "Carnegie Mellon University ": [],
+    "Casa Gua\u00adna\u00adju\u00adato Quad Cities": [
+      "Citi"
+    ],
+    "Cascade (United States)": [
+      "CASC"
+    ],
+    "Cascade AIDS Project": [
+      "CASC"
+    ],
+    "Cascade Designs (United States)": [
+      "CASC"
+    ],
+    "Cascade Drives (Sweden)": [
+      "CASC"
+    ],
+    "Cascade Mental Healthcare": [
+      "CASC"
+    ],
+    "Cascade Microtech (United States)": [
+      "CASC"
+    ],
+    "Cascades (Canada)": [
+      "CASC"
+    ],
+    "Cascades Volcano Observatory": [
+      "CASC"
+    ],
+    "Cascadia College": [
+      "CASC"
+    ],
+    "Cascadia Research Collective": [
+      "CASC"
+    ],
+    "Cascoda (United Kingdom)": [
+      "CASC"
+    ],
     "Catalogic Software": [],
-    "Catalyst Cooperative": [],
+    "Catalyst": [
+      "Catalyst Cooperative"
+    ],
+    "Catalyst Cooperative": [
+      "Catalyst"
+    ],
     "Cellular Tracking Technologies": [],
     "Center for Open Science": [],
     "Central China Normal University": [],
+    "Central City Concern": [
+      "CERN"
+    ],
     "Central Connecticut State University": [],
+    "Centre for Cities": [
+      "Citi"
+    ],
+    "Cerahelix (United States)": [
+      "Helix"
+    ],
+    "Cerner (Austria)": [
+      "CERN"
+    ],
+    "Cerner (United States)": [
+      "CERN"
+    ],
+    "Cernin (Czechia)": [
+      "CERN"
+    ],
+    "Cernostics (United States)": [
+      "CERN"
+    ],
     "Chalmers University of Technology": [],
     "Champalimaud Center for the Unknown": [],
     "Chapman University": [],
     "Chicago HOPES for Kids": [],
     "Childrens Hospital of Philadelphia": [],
+    "Children\u2019s Health Research Institute": [
+      "Health Research Institute"
+    ],
     "Christopher Newport University": [],
-    "Cirrus AI": [],
-    "Citi": [],
+    "Cirrus AI": [
+      "Cirrus Aircraft (United States)"
+    ],
+    "Cirrus Aircraft (United States)": [
+      "Cirrus AI"
+    ],
+    "Citi": [
+      "Argosy University, Twin Cities",
+      "Arise Citizens' Policy Project",
+      "Belfast Healthy Cities",
+      "CITIC Group (China)",
+      "Casa Gua\u00adna\u00adju\u00adato Quad Cities",
+      "Centre for Cities",
+      "Citi Logik (United Kingdom)",
+      "Citi University",
+      "Cities On Internet Association",
+      "Citigroup",
+      "Citizen (Japan)",
+      "Citizen Engagement Laboratory",
+      "Citizen Schools",
+      "Citizen Schools North Carolina",
+      "Citizen University",
+      "Citizens Advice",
+      "Citizens Budget Commission",
+      "Citizens Information Board",
+      "Citizens Network Watchdog",
+      "Citizens UK",
+      "Citizens for Justice",
+      "Education Cities",
+      "Emerald Cities Collaborative",
+      "Energy Cities",
+      "Eurocities",
+      "Forward Cities",
+      "Living Cities",
+      "Maintaining Active Citizens",
+      "Ministry of Human Capacities",
+      "Mountain Empire Older Citizens",
+      "National League of Cities",
+      "New North Citizens Council",
+      "Osaki Citizen Hospital",
+      "Public Citizen",
+      "Seirei Sakura Citizen Hospital",
+      "Sister Cities International",
+      "Tri-Cities Cancer Center",
+      "Twin Cities Orthopedics",
+      "Twin Cities Public Television",
+      "Twin Cities Spine Center",
+      "Union of the Baltic Cities",
+      "Young Citizens"
+    ],
+    "Citi Logik (United Kingdom)": [
+      "Citi"
+    ],
+    "Citi University": [
+      "Citi"
+    ],
+    "Cities On Internet Association": [
+      "Citi"
+    ],
+    "Citigroup": [
+      "Citi"
+    ],
+    "Citizen (Japan)": [
+      "Citi"
+    ],
+    "Citizen Engagement Laboratory": [
+      "Citi"
+    ],
+    "Citizen Schools": [
+      "Citi"
+    ],
+    "Citizen Schools North Carolina": [
+      "Citi"
+    ],
+    "Citizen University": [
+      "Citi"
+    ],
+    "Citizens Advice": [
+      "Citi"
+    ],
+    "Citizens Budget Commission": [
+      "Citi"
+    ],
+    "Citizens Information Board": [
+      "Citi"
+    ],
+    "Citizens Network Watchdog": [
+      "Citi"
+    ],
+    "Citizens UK": [
+      "Citi"
+    ],
+    "Citizens for Justice": [
+      "Citi"
+    ],
     "Citrine Informatics": [],
     "City College of San Francisco": [],
+    "Claims (India)": [
+      "AIM"
+    ],
     "Clarkson University": [],
     "Clemson University": [],
     "Cleveland Clinic": [],
+    "Close Concerns (United States)": [
+      "CERN"
+    ],
     "Code for Science and Society": [],
     "Code for Thought podcast": [],
     "Cohere Consulting, LLC": [],
@@ -107,15 +479,64 @@
     "Colorado State University": [],
     "Columbia University": [],
     "Comsats Islamabad": [],
+    "Concern Energomera (Russia)": [
+      "CERN"
+    ],
+    "Concern Foundation": [
+      "CERN"
+    ],
+    "Concern Granit-Electron (Russia)": [
+      "CERN"
+    ],
+    "Concern Worldwide": [
+      "CERN"
+    ],
+    "Concern Worldwide UK": [
+      "CERN"
+    ],
+    "Concern Worldwide US": [
+      "CERN"
+    ],
+    "Concerned Black Men National": [
+      "CERN"
+    ],
     "Cornell University": [],
     "Corning Inc.": [],
-    "Crowdstrike": [],
+    "Creative Concern (United Kingdom)": [
+      "CERN"
+    ],
+    "Crowdstrike": [
+      "Cro\u00ed"
+    ],
+    "Cro\u00ed": [
+      "Crowdstrike"
+    ],
     "Crs Soft": [],
     "Cummins Inc": [],
     "Cytovale": [
       "VA"
     ],
     "DFTWorks LLC": [],
+    "DO": [
+      "DocGo",
+      "Dog Genetics LLC",
+      "Dominion Energy"
+    ],
+    "Daimler (Germany)": [
+      "AIM"
+    ],
+    "Daimler (Japan)": [
+      "AIM"
+    ],
+    "Daimler (United Kingdom)": [
+      "AIM"
+    ],
+    "Daimler (United States)": [
+      "AIM"
+    ],
+    "Dalian University of Technology": [
+      "Gdansk University of Technology"
+    ],
     "DanStem - University of Copenhagen": [],
     "Dana Farber Cancer Institute": [],
     "Dana-Farber Cancer Institute": [],
@@ -123,17 +544,37 @@
     "Datryllic LLC": [],
     "Department of Defense": [],
     "Diebold Nixdorf": [],
+    "Digestive Health Research Institute": [
+      "Health Research Institute"
+    ],
     "Digital Research Alliance of Canada": [
       "Research Software Alliance"
     ],
     "Digitalkis Solutions": [],
-    "Discovery Partners Institute": [],
-    "DocGo": [],
-    "Dog Genetics LLC": [],
-    "Dominion Energy": [],
+    "Discovery Institute": [
+      "Discovery Partners Institute"
+    ],
+    "Discovery Partners Institute": [
+      "Discovery Institute"
+    ],
+    "DocGo": [
+      "DO"
+    ],
+    "Dog Genetics LLC": [
+      "DO"
+    ],
+    "Dominion Energy": [
+      "DO"
+    ],
+    "Double Helix (United States)": [
+      "Helix"
+    ],
     "Drexel": [],
     "Dryad Digital Repository": [],
     "Duke University": [],
+    "Durban University of Technology": [
+      "Gdansk University of Technology"
+    ],
     "Durham University": [],
     "EMBL": [],
     "ENSET Hassan II UNIVERSITY": [],
@@ -144,20 +585,45 @@
     "ESI Group": [
       "Bayesic Research"
     ],
+    "ESI Group (United States)": [
+      "Bayesic Research"
+    ],
     "ETH Zurich": [],
-    "Eagle Rock Analytics": [],
+    "Eagle Rock Analytics": [
+      "GLE"
+    ],
     "East Carolina University": [],
     "Ecole Polytechnique": [],
-    "Eldritch Research": [],
+    "Education Cities": [
+      "Citi"
+    ],
+    "Eldritch Research": [
+      "Search"
+    ],
+    "Elite Research Institute": [
+      "Health Research Institute"
+    ],
+    "Emerald Cities Collaborative": [
+      "Citi"
+    ],
     "Emory University": [],
     "Endeavor Solutions": [],
+    "Energy Cities": [
+      "Citi"
+    ],
     "Energy Efficient HPC Working Group": [],
     "Environment and Climate Change Canada": [],
+    "Eurocities": [
+      "Citi"
+    ],
     "Ex- SDE Microsoft India R&D": [],
     "Execusoft Solutions Inc": [],
     "ExxonMobil": [],
     "F5 Networks, Inc": [],
     "Faculty of computers and artificial intelligence benha university medical informatics department and research intern at bioengineering department of Louisville university ": [],
+    "Farm Concern International": [
+      "CERN"
+    ],
     "FedEx": [],
     "Federal Reserve Bank of Boston": [
       "Boston University"
@@ -175,10 +641,38 @@
     "Florida State University": [],
     "Fluence Energy": [],
     "Fluid Numerics LLC": [],
+    "Food Ingredient and Health Research Institute": [
+      "Health Research Institute"
+    ],
+    "Forward Cities": [
+      "Citi"
+    ],
     "Forward Health": [],
     "Franklin & Marshall College": [],
     "Fred Hutch": [],
-    "Gdansk University of Technology": [],
+    "Fred Hutchinson Cancer Research Center": [
+      "Cancer Research Center",
+      "Search"
+    ],
+    "Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa do Estado do Amazonas": [
+      "Amazon"
+    ],
+    "Funders Concerned About AIDS": [
+      "CERN"
+    ],
+    "GLE": [
+      "Eagle Rock Analytics",
+      "Google"
+    ],
+    "Gdansk University of Technology": [
+      "Arak University of Technology",
+      "Dalian University of Technology",
+      "Durban University of Technology",
+      "German University of Technology",
+      "Graz University of Technology",
+      "Kaunas University of Technology",
+      "University of Technology"
+    ],
     "Geophysics Institute, UNAM": [],
     "George Mason University": [],
     "George Washington University": [],
@@ -187,20 +681,39 @@
     "Georgia Institute of Technology (PhD graduate)": [],
     "Georgia State University": [],
     "Georgia Tech": [],
+    "German University of Technology": [
+      "Gdansk University of Technology"
+    ],
     "GitLab": [],
     "GiveChief": [],
     "GoGuardian": [],
-    "Google": [],
+    "Golden Helix Foundation": [
+      "Helix"
+    ],
+    "Google": [
+      "GLE"
+    ],
     "Government": [
       "Government of Canada"
     ],
     "Government of Canada": [
       "Government"
     ],
+    "Grace University": [
+      "Brac University"
+    ],
     "Grambling State University": [],
+    "Graz University of Technology": [
+      "Gdansk University of Technology"
+    ],
     "Great Plains Network": [],
     "Green Air Care LLC": [
+      "AIR",
+      "N/A",
       "n/a"
+    ],
+    "Grupo Ibmec Educacional": [
+      "IBM"
     ],
     "Gulf of Maine Research Institute": [],
     "Gustavus Adolphus College": [],
@@ -210,6 +723,9 @@
     ],
     "HOPES 4 Kids": [],
     "HPE": [],
+    "Haim Bio (South Korea)": [
+      "AIM"
+    ],
     "Harrisburg University of Science and Technology": [],
     "Harvard": [
       "Broad Institute",
@@ -220,20 +736,99 @@
     "Harvard University": [
       "VA"
     ],
-    "HashiCorp": [],
+    "HashiCorp": [
+      "Ash\u00e9"
+    ],
     "Haverford College": [],
-    "Health Research Institute": [],
+    "Health Research": [
+      "Health Research Institute"
+    ],
+    "Health Research Institute": [
+      "Africa Health Research Institute",
+      "American Health Research Institute",
+      "Animal Health Research Institute",
+      "Banner Sun Health Research Institute",
+      "BioCruces Health research Institute",
+      "Children\u2019s Health Research Institute",
+      "Digestive Health Research Institute",
+      "Elite Research Institute",
+      "Food Ingredient and Health Research Institute",
+      "Health Research",
+      "Health Research Institute of the Balearic Islands",
+      "Health Systems Research Institute",
+      "INCLIVA Health Research Institute",
+      "Kaiser Permanente Washington Health Research Institute",
+      "Lawson Health Research Institute",
+      "Mental Health Research Institute",
+      "Montana Health Research Institute",
+      "Navarre Institute of Health Research",
+      "Population Health Research Institute",
+      "Programs for Assessment of Technology in Health Research Institute",
+      "Public Health Research Institute Of India",
+      "Rath Research Institute",
+      "Renal Research Institute",
+      "Research Institute of Health Sciences",
+      "Research Institute of Mental Health",
+      "Search",
+      "Search Institute",
+      "University Mental Health Research Institute",
+      "Vancouver Coastal Health Research Institute",
+      "Women and Children\u2019s Health Research Institute",
+      "Women's & Children's Health Research Institute",
+      "Women's Health Research Institute"
+    ],
+    "Health Research Institute of the Balearic Islands": [
+      "Health Research Institute"
+    ],
+    "Health Systems Research Institute": [
+      "Health Research Institute"
+    ],
     "HealthPartners Institute": [],
-    "Helix": [],
+    "Helix": [
+      "Cerahelix (United States)",
+      "Double Helix (United States)",
+      "Golden Helix Foundation",
+      "Helix Biomedix (United States)",
+      "Helix Biopharma (Canada)",
+      "Helix Biostructures (United States)",
+      "HelixBind (United States)",
+      "Helixmith (South Korea)",
+      "Helixor Heilmittel (Germany)",
+      "Phelix Therapeutics (United States)"
+    ],
+    "Helix Biomedix (United States)": [
+      "Helix"
+    ],
+    "Helix Biopharma (Canada)": [
+      "Helix"
+    ],
+    "Helix Biostructures (United States)": [
+      "Helix"
+    ],
+    "HelixBind (United States)": [
+      "Helix"
+    ],
+    "Helixmith (South Korea)": [
+      "Helix"
+    ],
+    "Helixor Heilmittel (Germany)": [
+      "Helix"
+    ],
     "Hello PhD": [],
     "Hewlett-Packard Enterprise": [],
     "Higher Colleges of Technology": [],
     "Howard Hughes Medical Institute": [],
+    "IBM": [
+      "Grupo Ibmec Educacional"
+    ],
     "IBM Research": [],
     "IDM": [],
     "IHME": [],
     "IIT Bombay,India": [],
     "INAOE": [],
+    "INCLIVA Health Research Institute": [
+      "Health Research Institute"
+    ],
     "INRIA": [],
     "IRIS PASSCAL New Mexico Institute of Mining and Technology ": [
       "University of New Mexico"
@@ -244,6 +839,9 @@
     "Idaho National Laboratory": [],
     "Idaho State University": [],
     "Illinois Institute of Technology": [],
+    "Il\u2019laramatak Community Concerns": [
+      "CERN"
+    ],
     "Imperial College London": [],
     "Improving Aviation LLC": [],
     "In Bootcamp": [],
@@ -257,6 +855,9 @@
     "Institute for Disease Modeling,  Bill & Melinda Gates Foundation": [],
     "Institute for Health Metrics and Evaluation": [],
     "Institute for systems biology ": [],
+    "Instituto Federal do Amazonas": [
+      "Amazon"
+    ],
     "InsurTechnix": [],
     "Intel Corporation": [],
     "Intellectual Ventures": [],
@@ -282,7 +883,13 @@
     "Joint Genome Institute": [],
     "KBR Inc.": [],
     "KTH": [],
+    "Kaiser Permanente Washington Health Research Institute": [
+      "Health Research Institute"
+    ],
     "Karlsruhe Institute of Technology": [],
+    "Kaunas University of Technology": [
+      "Gdansk University of Technology"
+    ],
     "Kennesaw State University": [],
     "Keyfactor": [],
     "Khan Academy": [
@@ -297,40 +904,72 @@
     "LLNS\u202fLLC": [],
     "LM": [],
     "LSU": [],
+    "Laboratoire Aim\u00e9 Cotton": [
+      "AIM"
+    ],
     "Laboratory of Collective and Artificial Intelligence ": [],
+    "Lab\u00e9o": [
+      "Brookhaven National Laboratory "
+    ],
     "Lawrence Berkeley National Laboratory": [
       "UC Berkeley"
     ],
     "Lawrence Berkeley National Labs ": [],
     "Lawrence Livermore National Lab": [],
+    "Lawson Health Research Institute": [
+      "Health Research Institute"
+    ],
     "Lehigh University": [],
     "Leiden University": [],
     "Lewis & Clark College": [],
     "Liberty University": [],
     "Linux Accra User Group": [],
+    "Living Cities": [
+      "Citi"
+    ],
     "Los Alamos National Lab": [],
     "Los Alamos National Laboratory": [],
     "Louisiana State University": [],
+    "Lucerna (United States)": [
+      "CERN"
+    ],
+    "Lucerno Dynamics (United States)": [
+      "CERN"
+    ],
     "Luminary Apps, LLC": [],
     "MIT": [
       "Aarsol Private Limited",
       "Smithsonian Institution"
     ],
     "Machine Translation": [],
+    "Macmurray College": [
+      "CMU"
+    ],
+    "Maintaining Active Citizens": [
+      "Citi"
+    ],
     "Mak Superior, Fabrics and Electric Limied": [],
     "Marshall University": [],
     "Marshfield Clinic Research Institute": [],
     "Massachusetts General Hospital / MIT": [],
-    "Massachusetts Institute of Technology": [],
+    "Massachusetts Institute of Technology": [
+      "Aarsol Private Limited"
+    ],
     "MathWorks": [],
     "Max Planck Institute for Intelligent Systems": [],
     "Mayo Clinic": [],
     "McGill University, Montreal Neurological Institute": [],
     "McLean Hospital": [],
     "McMaster University": [],
+    "McMurry University": [
+      "CMU"
+    ],
     "Mecpower agri Uganda limited": [],
     "Medical College of Wisconsin": [],
     "Memorial Sloan Kettering Cancer Center": [],
+    "Mental Health Research Institute": [
+      "Health Research Institute"
+    ],
     "Mercator-Ocean International": [],
     "Meta": [
       "Metabase"
@@ -344,17 +983,32 @@
     "Million Concepts": [
       "University of Louisville; Million Concepts"
     ],
+    "Ministry of Human Capacities": [
+      "Citi"
+    ],
     "Mississippi State University": [],
     "Missouri University of Science and Technology ": [],
     "Moesif": [
       "ESI"
     ],
+    "Montana Health Research Institute": [
+      "Health Research Institute"
+    ],
     "Montana State University": [],
     "Morgridge Institute for Research": [],
     "Morning Consult": [],
     "Mount Sinai": [],
+    "Mountain Empire Older Citizens": [
+      "Citi"
+    ],
     "Mt. Saint Joseph University": [],
+    "Museu da Amazonia": [
+      "Amazon"
+    ],
     "Myraid": [],
+    "N/A": [
+      "Green Air Care LLC"
+    ],
     "NASA": [],
     "NASA - Innovim": [],
     "NASA Glenn Research Center": [],
@@ -386,10 +1040,16 @@
     "National Center for Atmospheric Research (NCAR)": [],
     "National Center for Supercomputing Applications": [],
     "National Heart, Lung, and Blood Institute": [],
+    "National Institute of Amazonian Research": [
+      "Amazon"
+    ],
     "National Institute of Astrophysics, Optics and Electronics": [],
     "National Institute of Mental Health": [],
     "National Institute of Standards and Technology": [],
     "National Institutes of Health": [],
+    "National League of Cities": [
+      "Citi"
+    ],
     "National Radio Astronomy Observatory": [],
     "National Renewable Energy Lab": [],
     "National Renewable Energy Laboratory ": [],
@@ -401,13 +1061,22 @@
     ],
     "Naval Postgraduate School": [],
     "Naval Research Lab, Stennis": [],
+    "Navarre Institute of Health Research": [
+      "Health Research Institute"
+    ],
     "Nazeer Hussain University, Karachi, Pakistan": [],
+    "Net-system": [
+      "Adnet Systems Inc"
+    ],
     "Netherlands eScience Center": [],
     "New Emerald": [],
     "New Jersey Institute of Technology": [],
     "New Jersey Institute of Technology (NJIT)": [],
     "New Mexico State University": [
       "University of New Mexico"
+    ],
+    "New North Citizens Council": [
+      "Citi"
     ],
     "New Orleans Baptist Theological Seminary": [],
     "New York Structural Biology Center": [],
@@ -453,9 +1122,18 @@
     "Oregon Health & Science University": [],
     "Oregon Institute of Technology ": [],
     "Oregon State University": [],
+    "Oregon State University Cascades": [
+      "CASC"
+    ],
+    "Osaki Citizen Hospital": [
+      "Citi"
+    ],
     "PNNL": [],
     "PPPL": [],
     "Pacific Northwest National Lab": [],
+    "Pacira (United States)": [
+      "CIRA"
+    ],
     "Paradigm4, Inc": [],
     "Pasadena City College": [],
     "Pasteur Labs": [],
@@ -464,12 +1142,21 @@
     "Pennsylvania State University": [],
     "Perimeter Institute for Theoretical Physics": [],
     "Pfizer, Inc.": [],
+    "Phelix Therapeutics (United States)": [
+      "Helix"
+    ],
     "Phoenix Bioinformatics": [],
     "Pima Community College": [],
     "Pine Research Instrumentation ": [],
     "Pittsburgh Supercomputing Center ": [],
     "Polyneme LLC": [],
+    "Polytechnic University": [
+      "California Polytechnic University, Pomona"
+    ],
     "Pomona College": [],
+    "Population Health Research Institute": [
+      "Health Research Institute"
+    ],
     "Portland State University": [],
     "Postlight": [],
     "Predictive Science Inc.": [],
@@ -477,7 +1164,19 @@
     "Princeton Plasma Physics Laboratory": [],
     "Princeton University": [],
     "Proclink consulting services, India": [],
+    "Programs for Assessment of Technology in Health Research Institute": [
+      "Health Research Institute"
+    ],
+    "Project Concern International": [
+      "CERN"
+    ],
     "Prospero Knowledge Brokers": [],
+    "Public Citizen": [
+      "Citi"
+    ],
+    "Public Health Research Institute Of India": [
+      "Health Research Institute"
+    ],
     "Pune Institute of Computer Technology": [],
     "Purdue Fort Wayne": [],
     "Purdue University": [],
@@ -491,15 +1190,36 @@
     "RENOIR CONSULTING": [],
     "Radboud University": [],
     "Rand Merchant Bank": [],
+    "RapidAIM (Australia)": [
+      "AIM"
+    ],
+    "Rath Research Institute": [
+      "Health Research Institute"
+    ],
+    "Ratio": [
+      "CFD Research Corporation"
+    ],
     "Raytheon BBN": [],
     "ReSA": [],
     "Renaissance Computing Institute": [],
     "Renaissance Computing institute ": [],
+    "Renal Research Institute": [
+      "Health Research Institute"
+    ],
     "Research Computing Teams": [],
+    "Research Institute of Health Sciences": [
+      "Health Research Institute"
+    ],
+    "Research Institute of Mental Health": [
+      "Health Research Institute"
+    ],
     "Research Software Alliance": [
       "Digital Research Alliance of Canada"
     ],
     "Rice University": [],
+    "Roessingh Concern": [
+      "CERN"
+    ],
     "Roku": [],
     "Ronin Institute": [],
     "Roswell Park Cancer Institute": [],
@@ -533,11 +1253,28 @@
     "Scoot Science": [],
     "Scripps Institution of Oceanography": [],
     "Scripps Research": [],
+    "Search": [
+      "Air Force Research Lab",
+      "Bayesic Research",
+      "CFD Research Corporation",
+      "Eldritch Research",
+      "Fred Hutchinson Cancer Research Center",
+      "Health Research Institute"
+    ],
+    "Search Institute": [
+      "Health Research Institute"
+    ],
     "Seattle Children's Hospital": [],
+    "Seirei Sakura Citizen Hospital": [
+      "Citi"
+    ],
     "Semper Cogito Consulting": [],
     "Sensimetrics Corporation": [],
     "Servi\u00e7o Federal de Processamento de Dados - SERPRO": [],
     "Siri Info Systems Inc": [],
+    "Sister Cities International": [
+      "Citi"
+    ],
     "Smithsonian Astrophysical Observatory": [],
     "Smithsonian Institution": [
       "MIT"
@@ -573,6 +1310,9 @@
     "Stealth startup": [],
     "Stellenbosch University": [],
     "Stoke Space": [],
+    "Stowarzyszenie \u0141\u00f3dzki Klub Amazonka": [
+      "Amazon"
+    ],
     "Student": [
       "Am a student at Novena University "
     ],
@@ -581,9 +1321,18 @@
     "Swansea University": [],
     "Symbotic": [],
     "TCS": [],
+    "TEAM": [
+      "BioTeam"
+    ],
+    "TERI": [
+      "Applied Materials INC"
+    ],
     "TGS": [],
     "TSESSEBE Technologies ": [],
     "TU Delft University": [],
+    "Taimyr College": [
+      "AIM"
+    ],
     "Tandem": [],
     "Tata Consultancy Services": [],
     "TaxBit": [],
@@ -623,11 +1372,23 @@
       "Topos Institute"
     ],
     "Treebeard": [],
+    "Tri-Cities Cancer Center": [
+      "Citi"
+    ],
     "Trizetto": [],
     "Truveta": [],
     "Tuck School of Business @ Dartmouth": [],
     "Tufts University": [],
     "Tulane University": [],
+    "Twin Cities Orthopedics": [
+      "Citi"
+    ],
+    "Twin Cities Public Television": [
+      "Citi"
+    ],
+    "Twin Cities Spine Center": [
+      "Citi"
+    ],
     "U of maryland": [],
     "UC Berkeley": [
       "Lawrence Berkeley National Laboratory",
@@ -680,15 +1441,48 @@
     "UW Madison": [],
     "Uber ATG": [],
     "Uniformed Services Unversity of the Health Sciences": [],
+    "Union of Concerned Scientists": [
+      "CERN"
+    ],
+    "Union of the Baltic Cities": [
+      "Citi"
+    ],
     "United States Geological Survey": [],
+    "Universidad Amazonica de Pando": [
+      "Amazon"
+    ],
+    "Universidad Lucerna": [
+      "CERN"
+    ],
+    "Universidad Maim\u00f3nides": [
+      "AIM"
+    ],
+    "Universidad Nacional Aut\u00f3noma de Alto Amazonas": [
+      "Amazon"
+    ],
+    "Universidad Nacional Intercultural de la Amazon\u00eda": [
+      "Amazon"
+    ],
     "Universidad Nacional de Colombia": [],
     "Universidad Nacional de Ingenieria": [],
     "Universidad Nacional de San Juan": [],
+    "Universidad Nacional de la Amazon\u00eda Peruana": [
+      "Amazon"
+    ],
     "Universidad de Buenos Aires": [],
+    "Universidade Federal do Amazonas": [
+      "Amazon"
+    ],
+    "Universidade do Estado do Amazonas": [
+      "Amazon"
+    ],
     "University Center Academia": [],
     "University College London": [],
     "University Corporation for Atmospheric Research": [
       "NCAR"
+    ],
+    "University Mental Health Research Institute": [
+      "Health Research Institute"
     ],
     "University at Albany": [],
     "University at Buffalo": [],
@@ -711,6 +1505,9 @@
     ],
     "University of Birmingham, UK": [],
     "University of British Columbia": [],
+    "University of Buraimi": [
+      "AIM"
+    ],
     "University of Calgary": [],
     "University of California": [
       "UC San Diego (2019-2023); Stanford University (2023\u2014)",
@@ -778,8 +1575,12 @@
     "University of Louisville; Million Concepts": [
       "Million Concepts"
     ],
+    "University of Lucerne": [
+      "CERN"
+    ],
     "University of Lucknow ": [],
     "University of Luxembourg": [],
+    "University of Maryland": [],
     "University of Maryland, Baltimore County": [],
     "University of Maryland, College Park": [],
     "University of Massachusetts": [],
@@ -833,6 +1634,10 @@
     "University of Southern California": [
       "University of California"
     ],
+    "University of Technology": [
+      "Gdansk University of Technology"
+    ],
+    "University of Tennessee": [],
     "University of Tennessee, Knoxville": [],
     "University of Texas": [
       "University of North Texas "
@@ -854,6 +1659,9 @@
     "University of Wisconsin-Madison": [],
     "University of Wyoming": [],
     "University of port harcourt ": [],
+    "University of the Amazon": [
+      "Amazon"
+    ],
     "University of the People": [],
     "VA": [
       "Avanade",
@@ -861,9 +1669,15 @@
       "Harvard",
       "Harvard University"
     ],
+    "VASCERN": [
+      "CERN"
+    ],
     "VMware": [],
     "VS Niketan College": [],
     "VTS-Group, LLC": [],
+    "Vancouver Coastal Health Research Institute": [
+      "Health Research Institute"
+    ],
     "Vanderbilt University": [],
     "Vanderbilt University ": [],
     "Versiti Blood Research Institute": [],
@@ -876,16 +1690,37 @@
     "Washington University in St. Louis School of Medicine": [],
     "Washinton University in St Louis": [],
     "WaveAccess": [],
+    "Weight Concern": [
+      "CERN"
+    ],
     "Wellesley college": [],
     "West Virginia University Institute of Technology": [],
     "Western Colorado University": [],
     "Western University": [],
     "Wharton / University of Pennsylvania ": [],
     "Wichita State University / Textron Aviation": [],
+    "Women and Children\u2019s Health Research Institute": [
+      "Health Research Institute"
+    ],
+    "Women's & Children's Health Research Institute": [
+      "Health Research Institute"
+    ],
+    "Women's Health Research Institute": [
+      "Health Research Institute"
+    ],
     "Yale": [],
     "Yale University": [],
+    "Yamato University": [
+      "Aalto University "
+    ],
+    "Yeshiva Derech Chaim": [
+      "AIM"
+    ],
     "Yikes LLC": [],
     "Yonsei University College of Medicine": [],
+    "Young Citizens": [
+      "Citi"
+    ],
     "Zhongke Inno (Beijing) Medical Research Institute": [],
     "czi": [],
     "evosoft Hungary Ltd.": [],

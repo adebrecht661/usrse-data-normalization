@@ -4,11 +4,18 @@ Created on Apr 7, 2023
 @author: Alex
 """
 import json
+import logging
 import traceback
+from typing import Optional
 
 from process_data.data.filepaths import (
     DUPE_RECORD_FILEPATH,
     IGNORED_RECORD_FILEPATH,
+)
+from process_data.data.ror_data import (
+    ROR_DATA,
+    get_ror_not_found,
+    write_ror_not_found,
 )
 from process_data.datatypes.recorded_ignores import RecordedIgnores
 from process_data.datatypes.recorded_states import RecordedDupes
@@ -83,3 +90,52 @@ def get_possible_matches(
             new_item,
             match_score,
         )
+
+
+def get_org_id(
+    deduped_org_name: str,
+    known_states: RecordedDupes,
+    known_ignores: RecordedIgnores,
+    match_score: int,
+    skip_match_for_ror: bool,
+    rematch_for_ror: bool,
+) -> Optional[str]:
+    if deduped_org_name in ROR_DATA:
+        return ROR_DATA[deduped_org_name]
+
+    ror_not_found = get_ror_not_found()
+
+    if (deduped_org_name not in ror_not_found or rematch_for_ror) and not skip_match_for_ror:
+        try:
+            process_new_item(
+                known_states.dupes,
+                known_ignores.ignored_dupes,
+                set(ROR_DATA.keys()),
+                deduped_org_name,
+                match_score,
+            )
+        except ValueError:
+            print("Saving progress and exiting")
+        except Exception:  # pylint: disable=broad-exception-caught
+            print("Unexpected error :")
+            print(traceback.format_exc())
+            print("Saving progress and exiting")
+
+        finally:
+            with DUPE_RECORD_FILEPATH.open("w", encoding="utf8") as dupe_file:
+                json.dump(known_states.to_data(), dupe_file, indent=2)
+            with IGNORED_RECORD_FILEPATH.open("w", encoding="utf8") as ignore_file:
+                json.dump(known_ignores.to_data(), ignore_file, indent=2)
+            print("Updated duplicates saved.")
+
+        deduped_org_name = known_states.get_dedupe_map()[deduped_org_name]
+
+        if deduped_org_name in ROR_DATA:
+            return ROR_DATA[deduped_org_name]
+
+        ror_not_found.add(deduped_org_name)
+
+        write_ror_not_found(ror_not_found)
+
+    logging.warning(f"ROR data not found for {deduped_org_name}")
+    return None

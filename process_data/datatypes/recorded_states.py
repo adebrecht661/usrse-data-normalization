@@ -32,6 +32,7 @@ class RecordedDupes:
         """Reverse the dupes to get bad values as keys"""
         return MAP(
             {dedupe: primary for primary, dedupes in self.dupes.items() for dedupe in dedupes}
+            | {primary: primary for primary in self.dupes.keys()}
         )
 
     @classmethod
